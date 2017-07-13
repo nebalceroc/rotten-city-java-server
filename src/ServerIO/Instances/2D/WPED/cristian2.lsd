@@ -1,0 +1,16 @@
+name@cristian2
+school@none
+exp@80
+lvl@1
+stats@100#10#10#20
+avatar@PunkyHair1#CoolHead#BasicWTorso#CleanWRightArm#CleanWLeftArm#BasicBLegs#BasicGFeet#0.6#RocketLauncher
+position@420,-406.5,1,right,-38,false,125,false,false
+life@125/125
+gear@description 
+HEAD@EGOR1
+CHEST@ESAC1
+LEGS@EMPTY
+FOOT@EMPTY
+GUN1@RocketLauncher
+GUN2@Gun
+AUXGUN@Grenade
